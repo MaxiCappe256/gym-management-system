@@ -2,9 +2,7 @@
 
 ![Agenda](./screenshots/turnos.png)
 
-Aplicación full-stack desarrollada para que un **entrenador personal de gimnasio** pueda gestionar sus clientes y organizar sus turnos de entrenamiento desde una agenda semanal.
-
-El sistema permite administrar clientes, programar sesiones de entrenamiento y visualizar la agenda de forma clara, evitando la gestión manual con mensajes o planillas.
+Aplicación full-stack desarrollada para que un **entrenador personal de gimnasio** pueda gestionar sus clientes, organizar sus turnos de entrenamiento desde una agenda semanal, administrar las deudas de los mismos y gestionar sus rutinas personalizadas, evitando la gestion manual en documentos como word.
 
 ---
 
@@ -34,6 +32,10 @@ El sistema permite administrar clientes, programar sesiones de entrenamiento y v
 - Creación de turnos
 - Organización de horarios por día y hora
 - Visualización clara de la agenda del entrenador
+- Control de deudas automatizadas por fecha con CronJob
+- Cobro de deudas
+- Creación de rutinas estandar o personalizadas
+- Asignación de rutinas a clientes
 
 ---
 
@@ -74,18 +76,6 @@ La aplicación sigue una arquitectura **full-stack separada**:
 
 ### Gestion de clientes
 ![Clientes](./screenshots/clientes.png)
-
----
-
-## Caso de uso
-
-Este sistema fue desarrollado para un **entrenador personal real**, permitiéndole:
-
-- gestionar todos sus clientes
-- organizar su agenda semanal
-- registrar turnos de entrenamiento
-- visualizar rápidamente los horarios ocupados
-- administrar su cartera de clientes
 
 ---
 
