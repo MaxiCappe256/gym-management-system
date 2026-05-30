@@ -1,6 +1,6 @@
 # Sistema de Gestión de Clientes y Turnos para Entrenador Personal
 
-![Agenda](./screenshots/dashboard.png)
+![Agenda](./screenshots/turnos.png)
 
 Aplicación full-stack desarrollada para que un **entrenador personal de gimnasio** pueda gestionar sus clientes y organizar sus turnos de entrenamiento desde una agenda semanal.
 
