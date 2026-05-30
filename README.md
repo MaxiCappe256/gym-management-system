@@ -57,17 +57,23 @@ La aplicación sigue una arquitectura **full-stack separada**:
 
 ## Capturas del sistema
 
+### Login
+![Login](./screenshots/login.png)
+
 ### Agenda semanal
-![Agenda](./screenshots/dashboard.png)
+![Agenda](./screenshots/turnos.png)
 
 ### Gestión de clientes
 ![Clientes](./screenshots/clientes.png)
 
-### Crear cliente
-![Nuevo Cliente](./screenshots/nuevo-cliente.png)
-
 ### Crear turno
-![Nuevo Turno](./screenshots/nuevo-turno.png)
+![Nuevo Turno](./screenshots/crear-turno.png)
+
+### Gestion de deudas
+![Deudas](./screenshots/deudas.png)
+
+### Gestion de rutinas
+![Rutinas](./screenshots/rutinas.png)
 
 ---
 
