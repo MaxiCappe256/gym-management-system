@@ -63,9 +63,6 @@ La aplicación sigue una arquitectura **full-stack separada**:
 ### Agenda semanal
 ![Agenda](./screenshots/turnos.png)
 
-### Gestión de clientes
-![Clientes](./screenshots/clientes.png)
-
 ### Crear turno
 ![Nuevo Turno](./screenshots/crear-turno.png)
 
@@ -74,6 +71,9 @@ La aplicación sigue una arquitectura **full-stack separada**:
 
 ### Gestion de rutinas
 ![Rutinas](./screenshots/rutinas.png)
+
+### Gestion de clientes
+![Clientes](./screenshots/clientes.png)
 
 ---
 
